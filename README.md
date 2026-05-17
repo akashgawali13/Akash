@@ -1,1 +1,1 @@
-# Akash
+ Hi, I’m Akash Gawali, Data Analyst & AI Developer | Python • SQL • ML • Power BI • Fintech • OCR . B.Sc. Data Science Graduate (Savitribai Phule Pune University) with an 8.4 CGPA .Passionate about leveraging AI, Machine Learning & Data Analytics to build impactful solutions in Fintech & Renewable Energy.
